@@ -1,0 +1,13 @@
+E:\soft\KellMQ\MQService\bin\Debug\MQService.exe
+E:\soft\KellMQ\MQService\bin\Debug\MQService.pdb
+E:\soft\KellMQ\MQService\bin\Debug\KellMQ.dll
+E:\soft\KellMQ\MQService\bin\Debug\KellMQ.pdb
+E:\soft\KellMQ\MQService\obj\x86\Debug\MQService.exe
+E:\soft\KellMQ\MQService\obj\x86\Debug\MQService.pdb
+E:\soft\KellMQ\MQService\bin\Debug\KellPersistence.dll
+E:\soft\KellMQ\MQService\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\soft\KellMQ\MQService\bin\Debug\KellPersistence.pdb
+E:\soft\KellMQ\MQService\obj\x86\Debug\MQService.csprojResolveAssemblyReference.cache
+E:\soft\KellMQ\MQService\bin\Debug\Newtonsoft.Json.dll
+E:\soft\KellMQ\MQService\bin\Debug\Newtonsoft.Json.xml
+E:\soft\KellMQ\MQService\bin\Debug\MQService.exe.config

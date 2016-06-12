@@ -1,0 +1,16 @@
+E:\soft\KellMQ\Consumer\bin\Debug\Consumer.exe
+E:\soft\KellMQ\Consumer\bin\Debug\Consumer.pdb
+E:\soft\KellMQ\Consumer\bin\Debug\KellMQ.dll
+E:\soft\KellMQ\Consumer\bin\Debug\KellMQ.pdb
+E:\soft\KellMQ\Consumer\obj\x86\Debug\Consumer.Form1.resources
+E:\soft\KellMQ\Consumer\obj\x86\Debug\Consumer.Properties.Resources.resources
+E:\soft\KellMQ\Consumer\obj\x86\Debug\Consumer.csproj.GenerateResource.Cache
+E:\soft\KellMQ\Consumer\obj\x86\Debug\Consumer.exe
+E:\soft\KellMQ\Consumer\obj\x86\Debug\Consumer.pdb
+E:\soft\KellMQ\Consumer\bin\Debug\KellPersistence.dll
+E:\soft\KellMQ\Consumer\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\soft\KellMQ\Consumer\bin\Debug\KellPersistence.pdb
+E:\soft\KellMQ\Consumer\bin\Debug\Newtonsoft.Json.dll
+E:\soft\KellMQ\Consumer\bin\Debug\Newtonsoft.Json.xml
+E:\soft\KellMQ\Consumer\bin\Debug\Consumer.exe.config
+E:\soft\KellMQ\Consumer\obj\x86\Debug\Consumer.csprojResolveAssemblyReference.cache

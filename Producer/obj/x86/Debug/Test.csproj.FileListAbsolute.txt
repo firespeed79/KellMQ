@@ -1,0 +1,10 @@
+E:\soft\KellMQ\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+E:\soft\KellMQ\Test\obj\x86\Debug\Test.Form1.resources
+E:\soft\KellMQ\Test\obj\x86\Debug\Test.Properties.Resources.resources
+E:\soft\KellMQ\Test\obj\x86\Debug\Test.csproj.GenerateResource.Cache
+E:\soft\KellMQ\Test\bin\Debug\Test.exe
+E:\soft\KellMQ\Test\bin\Debug\Test.pdb
+E:\soft\KellMQ\Test\bin\Debug\KellMQ.dll
+E:\soft\KellMQ\Test\bin\Debug\KellMQ.pdb
+E:\soft\KellMQ\Test\obj\x86\Debug\Test.exe
+E:\soft\KellMQ\Test\obj\x86\Debug\Test.pdb

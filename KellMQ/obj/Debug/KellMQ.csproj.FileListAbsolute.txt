@@ -1,0 +1,12 @@
+E:\soft\KellMQ\KellMQ\bin\Debug\KellMQ.dll
+E:\soft\KellMQ\KellMQ\bin\Debug\KellMQ.pdb
+E:\soft\KellMQ\KellMQ\bin\Debug\KellPersistence.dll
+E:\soft\KellMQ\KellMQ\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\soft\KellMQ\KellMQ\bin\Debug\KellPersistence.pdb
+E:\soft\KellMQ\KellMQ\bin\Debug\Interop.mscoree.dll
+E:\soft\KellMQ\KellMQ\obj\Debug\Interop.mscoree.dll
+E:\soft\KellMQ\KellMQ\obj\Debug\KellMQ.csproj.ResolveComReference.cache
+E:\soft\KellMQ\KellMQ\obj\Debug\KellMQ.dll
+E:\soft\KellMQ\KellMQ\obj\Debug\KellMQ.pdb
+E:\soft\KellMQ\KellMQ\bin\Debug\Newtonsoft.Json.dll
+E:\soft\KellMQ\KellMQ\bin\Debug\Newtonsoft.Json.xml
